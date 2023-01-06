@@ -1,0 +1,41 @@
+.page{background-color: aliceblue;
+width: 100%;
+height: 200px;
+display: flex;
+justify-content: space-evenly;
+}
+.insta{background-color: black;
+width: 320px;
+height: 200px;
+margin: 15px;}
+
+.pages{background-color: aliceblue;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    }
+.inst{background-color: aqua;
+width: 320px;
+height: 200px;
+margin: 15px;
+margin-top: 120px;}
+.insta1{background-image: url(./insta1.jpg);
+background-position: center;
+background-repeat: no-repeat;}
+.insta2{background-image: url(./insta\ 2.jpg);
+background-position: center;}
+
+.insta3{background-image: url(./insta\ 3.jpg);
+    background-position: center;}
+    .insta4{background-image: url(./insta\ 4.jpg);
+        background-position: center;}
+.inst1{background-image: url(./insta\ 5.jpg);}
+.inst2{background-image: url(./insta1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;}
+    .inst4{background-image: url(./insta\ 2.jpg);
+    background-position: center;}
+    
+    .inst3{background-image: url(./insta\ 3.jpg);
+        background-position: center;}
